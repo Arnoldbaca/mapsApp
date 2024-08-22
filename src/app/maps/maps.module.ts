@@ -18,10 +18,10 @@ import { SideMenuComponent } from '../alone/components/side-menu/side-menu.compo
 
 @NgModule({
   declarations: [
-    MiniMapComponent,
-    MapsLayoutComponent,
     FullScreenPageComponent,
+    MapsLayoutComponent,
     MarkersPageComponent,
+    MiniMapComponent,
     PropertiesPageComponent,
     ZoomRangePageComponent
   ],
